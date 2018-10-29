@@ -1,7 +1,3 @@
-//var Twitter = require('twitter');
-
-
-
 
 console.log('this is loaded');
 
